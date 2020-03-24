@@ -1,6 +1,6 @@
 ---
 id: "2019-10-18-etc-coop-joins-eea"
-title: "ETC Cooperative extends Yaz Khoury's contract"
+title: "ETC Cooperative joins Enterprise Ethereum Alliance"
 date: 2019-10-18
 author: Bob Summerwill
 featuredImage: eea.jpeg

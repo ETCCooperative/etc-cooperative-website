@@ -1,19 +1,23 @@
 module.exports = {
   siteMetadata: {
-    title: `Sky Lite`,
-    siteUrl: `https://yoursite.com`,
-    description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
+    title: `ETC Cooperative`,
+    siteUrl: `https://etccooperative.org`,
+    description: `Accelerating the growth of Ethereum Classic`,
     components: {
       appbar: {
         position: "sticky",
         links: [
           {
-            title: "Doc 1",
-            url: "/doc1"
+            title: "About",
+            url: "/about"
           },
           {
-            title: "Doc 2",
-            url: "/doc2"
+            title: "Filings",
+            url: "/filings"
+          },
+          {
+            title: "People",
+            url: "/people"
           }
         ]
       },

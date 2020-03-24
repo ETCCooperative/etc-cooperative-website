@@ -22,7 +22,7 @@ module.exports = {
         ]
       },
       footer: {
-        copyright: "yoursite.com",
+        copyright: "etccooperative.org",
         columns: [
           {
             heading: "Column 1",

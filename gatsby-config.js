@@ -18,6 +18,10 @@ module.exports = {
           {
             title: "People",
             url: "/people"
+          },
+          {
+            title: "Status",
+            url: "/status"
           }
         ]
       },

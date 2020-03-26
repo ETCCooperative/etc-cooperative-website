@@ -12,6 +12,14 @@ module.exports = {
             url: "/about"
           },
           {
+            title: "Roadmap",
+            url: "/roadmap"
+          },
+          {
+            title: "Governance",
+            url: "/posts/2020-03-17-etc-cooperative-agm-2020-new-governance"
+          },
+          {
             title: "Filings",
             url: "/filings"
           },
@@ -29,53 +37,77 @@ module.exports = {
         copyright: "etccooperative.org",
         columns: [
           {
-            heading: "Column 1",
+            heading: "Learn",
             links: [
               {
-                title: "Link 1",
-                url: "#"
+                title: "ethereumclassic.org",
+                url: "https://ethereumclassic.org"
               },
               {
-                title: "Link 2",
-                url: "#"
+                title: "ETC Discord",
+                url: "https://discord.gg/HgBa9b4"
               },
               {
-                title: "Link 3",
-                url: "#"
+                title: "ETC Global Comms",
+                url: "https://bobsummerwill.com/2019/10/03/addressing-east-west-disconnect-in-etc/"
+              },
+              {
+                title: "ECIPs",
+                url: "https://ecips.ethereumclassic.org/"
               }
             ]
           },
           {
-            heading: "Column 2",
+            heading: "Run",
             links: [
               {
-                title: "Link A",
-                url: "#"
+                title: "Hyperledger Besu",
+                url: "https://github.com/hyperledger/besu"
               },
               {
-                title: "Link B",
-                url: "#"
+                title: "Core-Geth",
+                url: "https://github.com/etclabscore/core-geth"
               },
               {
-                title: "Link C",
-                url: "#"
+                title: "Multi-Geth",
+                url: "https://github.com/multi-geth/multi-geth"
+              },
+              {
+                title: "OpenEthereum",
+                url: "https://github.com/openethereum/openethereum"
               }
             ]
           },
           {
-            heading: "Column 3",
+            heading: "ETC Coop Projects",
             links: [
               {
-                title: "Link x",
-                url: "#"
+                title: "Hyperledger Besu",
+                url: "https://github.com/hyperledger/besu"
               },
               {
-                title: "Link y",
-                url: "#"
+                title: "BlockScout",
+                url: "https://blockscout.com/etc/mainnet/"
               },
               {
-                title: "Link z",
-                url: "#"
+                title: "Ethercluster",
+                url: "https://ethercluster.com"
+              },
+              {
+                title: "etcnodes.org",
+                url: "https://etcnodes.org"
+              },
+              {
+                title: "Messari",
+                url: "https://messari.io/asset/ethereum-classic"
+              },
+              {
+                title: "Connext",
+                url: "https://connext.network/"
+              },
+              {
+                title: "Keccak256 hash algorithm",
+                url: "/posts/2020-02-10-etc-coop-support-switch-to-keccak256"
               }
             ]
           }

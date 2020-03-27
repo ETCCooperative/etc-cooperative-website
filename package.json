@@ -10,9 +10,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.17.11",
-    "gatsby-plugin-manifest": "^2.2.29",
-    "gatsby-theme-sky-lite": "bobsummerwill/gatsby-theme-sky-lite#master",
+    "gatsby": "^2.20.8",
+    "gatsby-plugin-manifest": "^2.3.3",
+    "gatsby-theme-sky-lite": "github:bobsummerwill/gatsby-theme-sky-lite#master",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "styled-components": "^4.4.1"

@@ -5,28 +5,33 @@ A lightweight GatsbyJS starter with Material-UI and MDX Markdown support. This s
 **View demo:**
 https://gatsby-theme-sky-lite.netlify.com
 
-## Install dependencies
+## Develop
+
+- node v12.19.0
+- npm v6.14.8
+
+### Install dependencies
 
 ```bash
 yarn # Or, npm install
 ```
 
-## Start development server
+### Start development server
 
 ```bash
-gatsby develop
+gatsby develop # Or, npm start
 ```
 
-## Empty cache
+### Build static site
+
+```bash
+gastby build
+```
+
+### Empty cache
 
 ```bash
 gatsby clean
-```
-
-## Build static site
-
-```bash
-gatsby build
 ```
 
 ## Screenshots

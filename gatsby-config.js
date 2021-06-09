@@ -28,10 +28,6 @@ module.exports = {
             url: "/people"
           },
           {
-            title: "Status",
-            url: "/status"
-          },
-          {
             title: "Contact",
             url: "/contact"
           }

@@ -45,11 +45,7 @@ module.exports = {
               },
               {
                 title: "ETC Discord",
-                url: "https://discord.gg/HgBa9b4"
-              },
-              {
-                title: "ETC Global Comms",
-                url: "https://bobsummerwill.com/2019/10/03/addressing-east-west-disconnect-in-etc/"
+                url: "https://discord.gg/ethereumclassic"
               },
               {
                 title: "ECIPs",

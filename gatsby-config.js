@@ -82,8 +82,12 @@ module.exports = {
                 url: "https://blockscout.com/etc/mainnet/"
               },
               {
-                title: "Ethercluster",
+                title: "ETC public RPC endpoints",
                 url: "https://ethercluster.com"
+              },
+              {
+                title: "ETC nodes explorer",
+                url: "https://etclabscore.github.io/nodes-interface/"
               }
             ]
           }

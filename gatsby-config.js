@@ -63,14 +63,6 @@ module.exports = {
               {
                 title: "Core-Geth",
                 url: "https://github.com/etclabscore/core-geth"
-              },
-              {
-                title: "Multi-Geth",
-                url: "https://github.com/multi-geth/multi-geth"
-              },
-              {
-                title: "OpenEthereum",
-                url: "https://github.com/openethereum/openethereum"
               }
             ]
           },
@@ -82,28 +74,16 @@ module.exports = {
                 url: "https://github.com/hyperledger/besu"
               },
               {
+                title: "Core-Geth",
+                url: "https://github.com/etclabscore/core-geth"
+              },
+              {
                 title: "BlockScout",
                 url: "https://blockscout.com/etc/mainnet/"
               },
               {
                 title: "Ethercluster",
                 url: "https://ethercluster.com"
-              },
-              {
-                title: "etcnodes.org",
-                url: "https://etcnodes.org"
-              },
-              {
-                title: "Messari",
-                url: "https://messari.io/asset/ethereum-classic"
-              },
-              {
-                title: "Connext",
-                url: "https://connext.network/"
-              },
-              {
-                title: "Keccak256 hash algorithm",
-                url: "/posts/2020-02-10-etc-coop-support-switch-to-keccak256"
               }
             ]
           }

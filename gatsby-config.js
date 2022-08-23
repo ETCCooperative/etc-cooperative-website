@@ -44,8 +44,12 @@ module.exports = {
                 url: "https://ethereumclassic.org"
               },
               {
-                title: "ETC Discord",
-                url: "https://discord.gg/ethereumclassic"
+                title: "ETC Community Discord",
+                url: "https://ethereumclassic.org/discord"
+              },
+              {
+                title: "ETC Cooperative Discord",
+                url: "https://discord.gg/5wDyd6u6pU"
               },
               {
                 title: "ECIPs",

@@ -1,8 +1,8 @@
 import { Box, Container, Grid, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import { graphql, StaticQuery } from 'gatsby';
-import React from 'react';
-import Link from '../components/Link';
+import Link from 'gatsby-theme-sky-lite/src/components/Link';
+import React, { Fragment } from 'react';
 
 const useStyles = makeStyles((theme) => ({
   footer: {
@@ -27,26 +27,48 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const FooterColumns = ({ columns }) => {
+  // keeps all the elements for a single column
+  let singleColumnElements = [];
+
   return (
     <Grid container spacing={2}>
-      {columns.map((column) => {
-        return (
-          <Grid xs={12} sm={4} item key={column.heading}>
-            <Typography style={{ fontWeight: 'bold' }}>
-              {column.heading}
-            </Typography>
+      {columns.reduce((cols, { heading, lastColumnItem = true, links }) => {
+        singleColumnElements = [
+          ...singleColumnElements,
+          <Fragment key={heading}>
+            <Typography style={{ fontWeight: 'bold' }}>{heading}</Typography>
             <ul>
-              {column.links.map((link) => {
+              {links.map((link) => {
+                let content = link.title;
+
+                // check if it's an image link
+                if (!!link.image) {
+                  content = (
+                    <img src={link.image} alt={link.title} width={100} />
+                  );
+                }
+
                 return (
                   <li key={link.title}>
-                    <Link to={link.url}>{link.title}</Link>
+                    <Link to={link.url}>{content}</Link>
                   </li>
                 );
               })}
             </ul>
-          </Grid>
-        );
-      })}
+          </Fragment>,
+        ];
+
+        if (lastColumnItem) {
+          cols.push(
+            <Grid xs={12} sm={4} item key={heading}>
+              {singleColumnElements}
+            </Grid>
+          );
+          singleColumnElements = [];
+        }
+
+        return cols;
+      }, [])}
     </Grid>
   );
 };
@@ -64,8 +86,10 @@ export default () => {
                 footer {
                   columns {
                     heading
+                    lastColumnItem
                     links {
                       title
+                      image
                       url
                     }
                   }

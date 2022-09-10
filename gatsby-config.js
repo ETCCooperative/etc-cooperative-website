@@ -38,6 +38,7 @@ module.exports = {
         columns: [
           {
             heading: "Learn",
+            lastColumnItem: false,
             links: [
               {
                 title: "ethereumclassic.org",
@@ -59,6 +60,7 @@ module.exports = {
           },
           {
             heading: "Run",
+            lastColumnItem: true,
             links: [
               {
                 title: "Hyperledger Besu",
@@ -72,6 +74,7 @@ module.exports = {
           },
           {
             heading: "ETC Coop Projects",
+            lastColumnItem: true,
             links: [
               {
                 title: "Hyperledger Besu",
@@ -92,6 +95,17 @@ module.exports = {
               {
                 title: "ETC nodes explorer",
                 url: "https://etclabscore.github.io/nodes-interface/"
+              }
+            ]
+          },
+          {
+            heading: "Partners",
+            lastColumnItem: true,
+            links: [
+              {
+                title: "Rivet Blockchain Gateway",
+                image: "https://rivet.cloud/img/rivet.3ae58e03.svg",
+                url: "https://rivet.cloud/"
               }
             ]
           }
@@ -130,7 +144,8 @@ module.exports = {
     }
   },
   plugins: [
-    { resolve: `gatsby-theme-sky-lite` },
+    "gatsby-theme-sky-lite",
+    "gatsby-plugin-image",
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

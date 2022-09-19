@@ -104,7 +104,7 @@ module.exports = {
             links: [
               {
                 title: "Rivet Blockchain Gateway",
-                image: "https://rivet.cloud/img/rivet.3ae58e03.svg",
+                image: 'https://etccooperative.org/rivet_sponsor.svg',
                 url: "https://rivet.cloud/"
               }
             ]

@@ -44,7 +44,7 @@ const FooterColumns = ({ columns }) => {
                 // check if it's an image link
                 if (!!link.image) {
                   content = (
-                    <img src={link.image} alt={link.title} width={100} />
+                    <img src={link.image} alt={link.title} width={120} />
                   );
                 }
 

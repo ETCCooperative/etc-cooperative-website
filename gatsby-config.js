@@ -145,7 +145,6 @@ module.exports = {
   },
   plugins: [
     "gatsby-theme-sky-lite",
-    "gatsby-plugin-image",
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

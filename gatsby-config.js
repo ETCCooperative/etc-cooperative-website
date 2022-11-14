@@ -12,10 +12,6 @@ module.exports = {
             url: "/about"
           },
           {
-            title: "Grants",
-            url: "/grants"
-          },
-          {
             title: "Roadmap",
             url: "/roadmap"
           },

@@ -12,6 +12,10 @@ module.exports = {
             url: "/about"
           },
           {
+            title: "Grants",
+            url: "/grants"
+          },
+          {
             title: "Roadmap",
             url: "/roadmap"
           },
@@ -106,6 +110,11 @@ module.exports = {
                 title: "Rivet Blockchain Gateway",
                 image: '/rivet_sponsor.svg',
                 url: "https://rivet.cloud/"
+              },
+              {
+                title: "Netlify",
+                image: '/Netlify_logo.svg',
+                url: "https://netlify.com/"
               }
             ]
           }

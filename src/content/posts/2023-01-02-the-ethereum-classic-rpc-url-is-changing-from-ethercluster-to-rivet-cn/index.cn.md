@@ -9,7 +9,7 @@ tags: [announcements]
 ---
 **You may listen to or watch this announcement here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AfQ1SN7vRMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gYaL-yJCPB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

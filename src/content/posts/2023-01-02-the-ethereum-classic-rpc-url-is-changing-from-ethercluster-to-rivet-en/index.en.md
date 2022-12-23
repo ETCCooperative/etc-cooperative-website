@@ -1,5 +1,5 @@
 ---
-id: "2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet"
+id: "2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet-en"
 title: "The Ethereum Classic RPC URL Is Changing From Ethercluster to Rivet"
 author: Donald McIntyre
 featuredImage: rivet-article-banner.png

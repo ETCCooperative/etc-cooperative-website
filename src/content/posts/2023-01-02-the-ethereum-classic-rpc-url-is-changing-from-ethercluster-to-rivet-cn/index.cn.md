@@ -61,6 +61,8 @@ We requested a comment from the company for this announcement and this is what R
 
 *Bottom line? We have always believed in the power of ETC to change the world, and we can’t wait to see what you’ll build next. If we can help, don’t hesitate to get in touch."*
 
+*Greg Lang, Founder, Rivet*
+
 ## Enterprise-Grade Support
 
 As Greg mentions above, Rivet provides:

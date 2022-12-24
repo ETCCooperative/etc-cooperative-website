@@ -59,9 +59,9 @@ We requested a comment from the company for this announcement and this is what R
 
 *Discord not your thing? No worries! Hit us up at [support@rivet.cloud](mailto:support@rivet.cloud) and we’ll get right back with you.*
 
-*Bottom line? We have always believed in the power of ETC to change the world, and we can’t wait to see what you’ll build next. If we can help, don’t hesitate to get in touch."*
+*Bottom line? We have always believed in the power of ETC to change the world, and we can’t wait to see what you’ll build next. If we can help, don’t hesitate to get in touch.*
 
-*Greg Lang, Founder, Rivet*
+*Greg Lang, Founder, Rivet"*
 
 ## Enterprise-Grade Support
 

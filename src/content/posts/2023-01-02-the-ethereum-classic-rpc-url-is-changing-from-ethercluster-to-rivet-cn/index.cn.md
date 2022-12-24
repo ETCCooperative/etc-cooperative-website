@@ -21,7 +21,7 @@ This is important information for wallet operators, exchanges, mining pools, dap
 
 ## The Ethercluster RPC Endpoint Will Be Discontinued on July 1st of 2023
 
-The Ethercluster endpoint that will be discotinued on July 1st is:
+The Ethercluster endpoint that will be discontinued on July 1st is:
 
 [https://ethercluster.com/etc](https://ethercluster.com/etc)
 

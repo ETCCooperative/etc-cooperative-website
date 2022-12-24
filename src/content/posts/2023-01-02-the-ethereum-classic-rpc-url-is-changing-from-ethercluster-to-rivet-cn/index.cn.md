@@ -55,11 +55,11 @@ We requested a comment from the company for this announcement and this is what R
 
 ***Support:***
 
-*Speaking of which, if you’re building on ETC and need support—or you have questions, comments, or feature requests, please join the Rivet discord server. We’ve got eyes on it 24/7 and we love hearing from buidlers—so don’t hesitate to reach out! Link: [https://discord.gg/7qUCDHqD](https://discord.gg/7qUCDHqD)"*
+*Speaking of which, if you’re building on ETC and need support—or you have questions, comments, or feature requests, please join the Rivet discord server. We’ve got eyes on it 24/7 and we love hearing from buidlers—so don’t hesitate to reach out! Link: [https://discord.gg/7qUCDHqD](https://discord.gg/7qUCDHqD)*
 
 *Discord not your thing? No worries! Hit us up at [support@rivet.cloud](mailto:support@rivet.cloud) and we’ll get right back with you.*
 
-*Bottom line? We have always believed in the power of ETC to change the world, and we can’t wait to see what you’ll build next. If we can help, don’t hesitate to get in touch.*
+*Bottom line? We have always believed in the power of ETC to change the world, and we can’t wait to see what you’ll build next. If we can help, don’t hesitate to get in touch."*
 
 ## Enterprise-Grade Support
 

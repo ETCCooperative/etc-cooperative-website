@@ -47,7 +47,7 @@ The ETC Cooperative will continue to finance the cost of the free APIs and publi
 
 We requested a comment from the company for this announcement and this is what Rivet founder, [Greg Lang](https://twitter.com/designheretic), had to say to us and the ecosystem at large:
 
-*We have always taken immense pride serving the ETC developer community—the OG-est of Turing-complete-smart-contracting OGs—with enterprise-grade uptime, capacity, and attentiveness. That’s why we were excited to become the endpoint provider for EtherCluster in November of 2021.*
+*"We have always taken immense pride serving the ETC developer community—the OG-est of Turing-complete-smart-contracting OGs—with enterprise-grade uptime, capacity, and attentiveness. That’s why we were excited to become the endpoint provider for EtherCluster in November of 2021.*
 
 *With this transition to [https://rivet.link](https://rivet.link), ETC BUIDLers can still expect the same high-quality service they’ve come to expect from EtherCluster—because we are as committed as ever to providing the ETC community the best possible service we can deliver.*
 
@@ -55,7 +55,7 @@ We requested a comment from the company for this announcement and this is what R
 
 ***Support:***
 
-*Speaking of which, if you’re building on ETC and need support—or you have questions, comments, or feature requests, please join the Rivet discord server. We’ve got eyes on it 24/7 and we love hearing from buidlers—so don’t hesitate to reach out! Link: [https://discord.gg/7qUCDHqD](https://discord.gg/7qUCDHqD)*
+*Speaking of which, if you’re building on ETC and need support—or you have questions, comments, or feature requests, please join the Rivet discord server. We’ve got eyes on it 24/7 and we love hearing from buidlers—so don’t hesitate to reach out! Link: [https://discord.gg/7qUCDHqD](https://discord.gg/7qUCDHqD)"*
 
 *Discord not your thing? No worries! Hit us up at [support@rivet.cloud](mailto:support@rivet.cloud) and we’ll get right back with you.*
 

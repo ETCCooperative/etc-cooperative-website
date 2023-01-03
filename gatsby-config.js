@@ -90,11 +90,11 @@ module.exports = {
               },
               {
                 title: "ETC public RPC endpoints",
-                url: "https://ethercluster.com"
+                url: "https://rivet.link/networks/"
               },
               {
                 title: "ETC nodes explorer",
-                url: "https://etclabscore.github.io/nodes-interface/"
+                url: "https://etcnodes.org/"
               }
             ]
           },

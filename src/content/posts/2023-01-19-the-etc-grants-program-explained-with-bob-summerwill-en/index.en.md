@@ -1,4 +1,10 @@
-
+---
+id: "2023-01-19-the-etc-grants-program-explained-with-bob-summerwill-en"
+title: "The ETC Grants Program Explained With Bob Summerwill"
+author: Donald McIntyre
+featuredImage: etc-grants-program-banner.png
+tags: [interviews]
+---
 
 In this interview we spoke with Bob Summerwill to explain the newly launched ETC Grants program.
 

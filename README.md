@@ -25,7 +25,7 @@ gatsby develop # Or, npm start
 ### Build static site
 
 ```bash
-gastby build
+gatsby build
 ```
 
 ### Empty cache

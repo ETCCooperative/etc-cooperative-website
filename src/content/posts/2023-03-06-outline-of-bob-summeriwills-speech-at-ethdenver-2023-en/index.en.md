@@ -9,7 +9,7 @@ tags: [events]
 ---
 **You may watch Bob's presentation at ETHDenver here:**
 
-*Note: The microphone did not work the first few minutes so you may want to skip to minute 12.24.*
+*Note: The microphone did not work the first few minutes so you may want to skip to minute 12:24.*
 
 <iframe src="https://player.twitch.tv/?video=1754454519&time=0h9m21s&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 

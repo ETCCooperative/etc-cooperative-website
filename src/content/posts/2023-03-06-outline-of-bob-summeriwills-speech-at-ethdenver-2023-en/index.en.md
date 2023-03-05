@@ -1,5 +1,5 @@
 ---
-id: "2023-03-06-outline-of-bob-summeriwills-speech-at-ethdenver-2023-en"
+id: "2023-03-06-outline-of-bob-summerwills-speech-at-ethdenver-2023-en"
 title: "Outline of Bob Summerwill's Speech at ETHDenver 2023"
 author: Donald McIntyre
 featuredImage: bob-ethdenver.png

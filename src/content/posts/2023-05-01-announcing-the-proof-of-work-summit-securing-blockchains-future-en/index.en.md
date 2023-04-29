@@ -17,8 +17,11 @@ The Summit will begin with an opening night dinner on the 25th at [VNITROBLOCK](
 Experts from around the globe will converge in Prague to dig into the history, the misconceptions, and future of the POW consensus protocol. Some of the esteemed speakers who will be speaking are;
 
 Charlie Shrem - Bitcoin Pioneer
+
 Charlie Lee -  Creator of LItecoin
+
 Jameson Lopp - Professional Cypherpunk
+
 Caitlin Long - former Wall St veteran turned Founder and CEO of Custodia Bank 
 
 More speakers will be added soon.  

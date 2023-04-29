@@ -32,7 +32,7 @@ The tickets for the conference are on sale now, and we encourage everyone who is
 
 We look forward to seeing you in Prague for the first Proof-of-Work Conference!
 
-Secure your [ticket now!](Secure your [ticket now!](https://www.eventbrite.ca/e/pow-summit-2023-tickets-551536098317) For more details see the press release here.) For more details see the press release [here](https://www.eventbrite.ca/e/pow-summit-2023-tickets-551536098317).
+Secure your [ticket now!](https://www.eventbrite.ca/e/pow-summit-2023-tickets-551536098317) For more details see the press release here.
 
 --- 
 

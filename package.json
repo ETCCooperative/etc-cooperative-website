@@ -10,7 +10,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.20.8",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-theme-sky-lite": "github:ETCCooperative/gatsby-theme-sky-lite#main",
     "react": "^16.11.0",

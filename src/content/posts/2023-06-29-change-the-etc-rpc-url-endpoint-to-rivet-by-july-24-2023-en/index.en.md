@@ -2,7 +2,7 @@
 id: "2023-06-29-change-the-etc-rpc-url-endpoint-to-rivet-by-july-24-2023-en"
 title: "Change the ETC RPC URL Endpoint to RIVET by July 24 2023"
 author: Donald McIntyre
-featuredImage: move-rpc-endpoint.png
+featuredImage: banner-en.png
 tags: [Announcement]
 ---
 

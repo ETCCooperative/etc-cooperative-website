@@ -2,7 +2,7 @@
 id: "2023-06-30-q1-report-cn"
 title: "ETC Cooperative 2023 Q1 Report"
 author: Donald McIntyre
-featuredImage: q1-2023-report-banner.png
+featuredImage: q1-2023-report-banner-cn.png
 tags: [governance]
 ---
 

@@ -55,6 +55,14 @@ module.exports = {
               {
                 title: "ECIPs",
                 url: "https://ecips.ethereumclassic.org/"
+              },
+{
+                title: "Privacy Policy",
+                url: "/privacy"
+              },
+{
+                title: "Cookie Policy",
+                url: "/cookies"
               }
             ]
           },

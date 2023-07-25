@@ -111,7 +111,20 @@ module.exports = {
                 title: "Netlify",
                 image: '/Netlify_logo.svg',
                 url: "https://netlify.com/"
+              },
+{
+            heading: "Privacy",
+            lastColumnItem: true,
+            links: [
+              {
+                title: "Privacy Policy",
+                url: "/privacy"
+              },
+              {
+                title: "Cookie Policy",
+                url: "/cookies"
               }
+
             ]
           }
         ]

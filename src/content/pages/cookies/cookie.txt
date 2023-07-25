@@ -1,0 +1,44 @@
+##COOKIE POLICY OF ETCCOOPERATIVE.ORG
+
+**1. Introduction**
+
+Our website, etccooperative.org (hereinafter: "the website") uses cookies and similar technologies (for convenience, all such technologies are referred to as "cookies"). Cookies are also placed by third parties we have engaged. In the document below, we inform you about the use of cookies on our website.
+
+**2. What are cookies?**
+
+A cookie is a small simple file that is sent along with pages of this website and stored by your browser on the hard drive of your computer or another device. The information stored therein may be returned to our servers or to the servers of the relevant third parties during a subsequent visit.
+
+**3. What are scripts?**
+
+A script is a piece of program code that is used to make our website function properly and interactively. This code is executed on our server or on your device.
+
+**4. Consent**
+
+When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on "All cookies", you consent to us using all cookies and plug-ins as described in the pop-up and this cookie statement. You can disable the use of cookies via your browser, but please note that our website may no longer work properly.
+
+**5. Third parties**
+
+We have made agreements about the use of cookies with other companies that place cookies. However, we cannot guarantee that these third parties handle your personal data in a reliable or secure manner. Parties such as Google are to be considered as independent data controllers. We recommend that you read the privacy statements of these companies.
+
+**6. Cookies**
+
+6.1 Technical or functional cookies
+
+Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website.
+
+6.2 Analytical cookies
+
+We use analytical cookies to optimize the website experience for our users. With these analytical cookies, we get insights into the usage of our website.
+
+**7. Enabling/disabling and deleting cookies**
+
+You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser.
+
+8. Contact details
+
+For questions and/or comments about our cookie policy and this statement, please contact us using the following contact details:
+
+Ethereum Classic Cooperative Inc
+1207 Delaware Ave #541
+Wilmington, DE 19806
+USA

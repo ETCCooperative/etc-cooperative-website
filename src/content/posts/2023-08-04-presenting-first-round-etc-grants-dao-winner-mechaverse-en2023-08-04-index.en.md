@@ -1,5 +1,5 @@
 ---
-id: "2023-08-01-presenting-first-round-etc-grants-dao-winner-mechaverse-en"
+id: "2023-08-04-presenting-first-round-etc-grants-dao-winner-mechaverse-en"
 title: "Presenting First Round ETC Grants DAO Winner Mechaverse"
 author: Donald McIntyre
 featuredImage: mechaverse-banner.png

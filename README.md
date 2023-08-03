@@ -1,4 +1,10 @@
-# Gatsby Theme: Sky Lite Starter
+# RETIRED WEBSITE!
+
+This was the website for https://etccooperative.org from 2019 to 2023 when it was replaced with a whole new one, with English and Chinese language support, light and dark mode, and considerably improved design.
+
+The repo for the new site is at https://github.com/etccooperative/etc-coop-website.
+
+## Gatsby Theme: Sky Lite Starter
 
 A lightweight GatsbyJS starter with Material-UI and MDX Markdown support. This starter uses the `gatsby-theme-sky-lite` theme available at: https://github.com/vim-labs/gatsby-theme-sky-lite
 
